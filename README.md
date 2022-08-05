@@ -1,5 +1,5 @@
 # ActiveBox
-HTML, CSS Jquery
+HTML, CSS, Jquery
 
 
 Верстка одностроничного сайта ActiveBox
